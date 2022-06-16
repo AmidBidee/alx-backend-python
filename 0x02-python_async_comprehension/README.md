@@ -1,8 +1,4 @@
 # 0x02. Python - Async Comprehension
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
-:bookmark: async comprehension | async generators | python
 
 ## Resources
 ### Read or watch:
