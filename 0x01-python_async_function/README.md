@@ -1,9 +1,3 @@
-# 0x01. Python - Async
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
-:bookmark: async | python | python3 async
-
 ## Resources
 ### Read or watch:
 * [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/)
